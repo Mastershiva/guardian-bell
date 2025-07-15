@@ -1,0 +1,8 @@
+{
+  "name": "Guardian Bell",
+  "description": "Guardian Bell is a women's safety web application that prioritizes real-time emergency response, discreet triggers, and fast connectivity. Features include one-tap SOS alerts, a fake call simulator, a shake-activated siren, and live route sharing.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
